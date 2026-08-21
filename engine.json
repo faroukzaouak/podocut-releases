@@ -1,10 +1,10 @@
 {
  "win32-x64": {
-  "version": "1.0.0",
-  "sha256": "e7f1e1f3a86c235e528ed64352b464dcc1bfd6146fbae7ed38ebcdb44ffa3ee4",
-  "size": 116708941,
+  "version": "1.1.0",
+  "sha256": "d8d2db6551b3dd4860b6f1da21d9965eaaf78460cb5e4faf5482f13f7071d483",
+  "size": 116711967,
   "urls": [
-   "https://github.com/faroukzaouak/podocut-releases/releases/download/engine-v1.0.0/podocut-engine-1.0.0-win32-x64.zip"
+   "https://github.com/faroukzaouak/podocut-releases/releases/download/engine-v1.1.0/podocut-engine-1.1.0-win32-x64.zip"
   ]
  }
 }
