@@ -14,5 +14,13 @@
   "urls": [
    "https://github.com/faroukzaouak/podocut-releases/releases/download/engine-v1.1.0/podocut-engine-1.1.0-darwin-arm64.zip"
   ]
+ },
+ "darwin-x64": {
+  "version": "1.1.0",
+  "sha256": "752817461b41cac616f4ed385246cc75ffff02e3934d354512d1142d0d08b577",
+  "size": 60877885,
+  "urls": [
+   "https://github.com/faroukzaouak/podocut-releases/releases/download/engine-v1.1.0/podocut-engine-1.1.0-darwin-x64.zip"
+  ]
  }
 }
