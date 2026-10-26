@@ -1,9 +1,9 @@
 {
  "darwin-arm64": {
-  "version": "1.3.2",
-  "url": "https://github.com/faroukzaouak/podocut-releases/releases/download/v1.3.2/PodoCut-1.3.2-mac-arm64.dmg",
-  "size": 79928224,
-  "sha256": "ec58b3916c254867ee255315b8e6ff05a81fb807e9578f3e7d5e50c8980aaa6d"
+  "version": "1.3.3",
+  "url": "https://github.com/faroukzaouak/podocut-releases/releases/download/v1.3.3/PodoCut-1.3.3-mac-arm64.dmg",
+  "size": 79934451,
+  "sha256": "235c9d597b9e3d88a3d317218eb237020cacd2f617fd0a3c9f2f644d6321a2f2"
  },
  "darwin-x64": {
   "version": "1.3.2",
